@@ -20,4 +20,4 @@
 | **[HabitFlow](https://github.com/Abbas56Fares/HabitFlow)** | Habit tracking with streaks and progress history. | JavaScript |
 
 ### Reach me
-[Email](mailto:faresabbas1997@gmail.com) · LinkedIn — add your URL
+[Email](mailto:faresabbas1997@gmail.com)
